@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/adity2020">
+  <a href="https://github.com/adit2020">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=442&text=Hi%2C%20I'm%20Adi" alt="Hi, I&#39;m Adi" />
   </a>
 </p>
@@ -70,7 +70,7 @@ CS student at Ohio State. I build software, mess around with AI, and usually hav
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=adity2020&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=adit2020&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 💭 Dev Quote
@@ -80,4 +80,4 @@ CS student at Ohio State. I build software, mess around with AI, and usually hav
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/adity2020">adity2020</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/adit2020">adit2020</a></i></p>
